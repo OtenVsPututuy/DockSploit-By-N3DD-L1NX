@@ -17,12 +17,6 @@ Port 2375 is often unintentionally left open by developers or administrators dur
 
 💾 Dump all MySQL databases if the container is running a MySQL service
 
-💬 Simulated progress bars and slow-typing output for aesthetic terminal UX
-
-🎭 Rotating ASCII art banners on every run
-
-🚪 Graceful exit and cleanup on Ctrl+C or quit
-
 🔒 Does not require installing on target — all remote via Docker API
 
 📚 What Makes This Vulnerability Dangerous?
