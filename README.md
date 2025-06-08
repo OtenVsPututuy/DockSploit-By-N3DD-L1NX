@@ -1,5 +1,5 @@
 🐳 DockSploit – Docker Remote API Exploitation Framework
-Code Name: N3DD-L1NX
+BY: N3DD X L1NX
 
 🔥 Overview
 DockSploit is a post-exploitation and red team tool tailored for penetration testers, bug bounty hunters, and security researchers to exploit Docker daemons that are exposed over TCP port 2375 — a common misconfiguration that can lead to full system compromise.
